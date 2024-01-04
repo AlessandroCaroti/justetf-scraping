@@ -2,9 +2,9 @@
 1. Define the asset class based on the investment objective.
 1. Select ETFs that:
 	1. Faithfully replicate the index.
-	1. Have a size of at least 100 million dollars under management.
-	1. Have an age greater than 3 years.
-	1. Have a complete or optimized physical replication. If synthetic replication, ensure that the swap counterparties are numerous.
+	1. Have a size of **at least 100 million $** under management.
+	1. Have an age **greater than 3 years**.
+	1. Have a complete or optimized **physical replication**. If synthetic replication, ensure that the swap counterparties are numerous.
 1. For the same asset class, choose ETFs with lower costs. Check:
 	1. Bid-ask spread.
 	1. Management commission.
